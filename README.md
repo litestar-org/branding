@@ -1,2 +1,2 @@
-# branding
-Brading for the @starlite-api organization and project
+# Branding
+This repository contains all assets, artwork and graphics used by [@starlite-api](https://github.com/starlite-api/) projects.
