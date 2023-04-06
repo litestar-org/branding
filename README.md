@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/Branding - SVG - Transparent/Logo - Banner - Inline - Light.svg#gh-light-mode-only" alt="Starlite Logo - Light" width="100%" height="auto" />
+  <img src="assets/Branding - SVG - Transparent/Logo - Banner - Inline - Dark.svg#gh-dark-mode-only" alt="Starlite Logo - Dark" width="100%" height="auto" />
+</p>
 # Branding
 This repository contains all assets, artwork and graphics used by [@litestar-org](https://github.com/litestar-org/) projects.
 
