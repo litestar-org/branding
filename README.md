@@ -15,4 +15,4 @@ This repository contains all assets, artwork and graphics used by [@litestar-org
 ## Guidelines
 View the [brand guidelines](assets/Litestar%20Brand%20Guidelines.pdf) for detailed information.
 
-![Litestar Brand Guidelines](https://user-images.githubusercontent.com/45884264/217174708-3d1c4793-37d2-45e3-bb5e-b4aecb814f02.svg)
+![Litestar Brand Guidelines](https://github.com/starlite-api/branding/blob/main/assets/Litestar%20Brand%20Guidelines.svg)
