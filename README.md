@@ -1,5 +1,5 @@
 # Branding
-This repository contains all assets, artwork and graphics used by [@starlite-api](https://github.com/starlite-api/) projects.
+This repository contains all assets, artwork and graphics used by [@litestar-org](https://github.com/litestar-org/) projects.
 
 ## Color Palette
 
@@ -13,6 +13,6 @@ This repository contains all assets, artwork and graphics used by [@starlite-api
 * ![#ffffff](https://placehold.co/15x15/ffffff/ffffff.png) `#ffffff`
 
 ## Guidelines
-View the [brand guidelines](assets/Starlite%20Brand%20Guidelines.pdf) for detailed information.
+View the [brand guidelines](assets/Litestar%20Brand%20Guidelines.pdf) for detailed information.
 
-![Starlite Brand Guidelines](https://user-images.githubusercontent.com/45884264/217174708-3d1c4793-37d2-45e3-bb5e-b4aecb814f02.svg)
+![Litestar Brand Guidelines](https://user-images.githubusercontent.com/45884264/217174708-3d1c4793-37d2-45e3-bb5e-b4aecb814f02.svg)
