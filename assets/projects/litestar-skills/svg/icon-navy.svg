@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none" role="img" aria-label="Litestar Skills">
+  <title>Litestar Skills</title>
+  <rect x="28" y="40" width="200" height="176" rx="24" fill="none" stroke="#202235" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M28 88H228" fill="none" stroke="#202235" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M64 128L92 152L64 176" fill="none" stroke="#202235" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M104 176H132" fill="none" stroke="#202235" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M172 116L180 142L206 150L180 158L172 184L164 158L138 150L164 142Z" fill="none" stroke="#202235" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
