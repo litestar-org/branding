@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none" role="img" aria-label="DTOs">
+  <title>DTOs</title>
+  <rect x="8" y="8" width="240" height="240" rx="52" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="6"/>
+  <path d="M80 40C58 40 48 52 48 74V104C48 118 36 128 24 128C36 128 48 138 48 152V182C48 204 58 216 80 216" fill="none" stroke="#EDB641" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M176 40C198 40 208 52 208 74V104C208 118 220 128 232 128C220 128 208 138 208 152V182C208 204 198 216 176 216" fill="none" stroke="#EDB641" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M96 92H160" fill="none" stroke="#EDB641" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M96 128H144" fill="none" stroke="#EDB641" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M96 164H160" fill="none" stroke="#EDB641" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

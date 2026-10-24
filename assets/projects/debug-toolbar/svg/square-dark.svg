@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none" role="img" aria-label="Debug Toolbar">
+  <title>Debug Toolbar</title>
+  <rect x="0" y="0" width="256" height="256" fill="#202235"/>
+  <rect x="28" y="40" width="200" height="176" rx="22" fill="none" stroke="#EDB641" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M28 88H228" fill="none" stroke="#EDB641" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="60" cy="64" r="6" fill="#EDB641"/>
+  <circle cx="84" cy="64" r="6" fill="#EDB641"/>
+  <circle cx="108" cy="64" r="6" fill="#EDB641"/>
+  <path d="M56 154H88L108 114L134 186L156 138L172 154H200" fill="none" stroke="#EDB641" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

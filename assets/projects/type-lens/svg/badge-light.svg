@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none" role="img" aria-label="Type Lens">
+  <title>Type Lens</title>
+  <rect x="8" y="8" width="240" height="240" rx="52" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="6"/>
+  <circle cx="112" cy="112" r="74" fill="none" stroke="#EDB641" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M164 164L224 224" fill="none" stroke="#EDB641" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M84 90L62 112L84 134" fill="none" stroke="#EDB641" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 90L162 112L140 134" fill="none" stroke="#EDB641" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M100 94H124" fill="none" stroke="#EDB641" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M112 94V134" fill="none" stroke="#EDB641" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
